@@ -2,7 +2,8 @@
 
 
 # API URL
-https://lambda-airbnb.herokuapp.com
+https://airbnb-labmda.herokuapp.com/
+
 
 
 
